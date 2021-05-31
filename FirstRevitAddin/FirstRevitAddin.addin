@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+ <AddIn Type="Command">
+       <Name>FirstRevitAddIn</Name>
+       <FullClassName>FirstRevitAddin.GetElementParameters</FullClassName>
+       <Text>FirstRevitAddIn</Text>
+       <Description>Places the Group at Particular Point</Description>
+       <VisibilityMode>AlwaysVisible</VisibilityMode>
+       <Assembly>C:\Users\harsh\Desktop\FirstRevitAddin\FirstRevitAddin\bin\Debug\FirstRevitAddin.dll</Assembly>
+       <AddInId>502fe383-2648-4e98-adf8-5e6047f9dc34</AddInId>
+    <VendorId>ReopeCom</VendorId>
+    <VendorDescription>Reope AS https://reope.com/</VendorDescription>
+ </AddIn>
+</RevitAddIns>
